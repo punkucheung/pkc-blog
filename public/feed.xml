@@ -1,0 +1,574 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>PunKuBlog</title>
+      <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
+      <description>To gain the approval of your pursuers is what you need to do.</description>
+      <language>en-us</language>
+      <managingEditor>punkucheung@163.com (punku)</managingEditor>
+      <webMaster>punkucheung@163.com (punku)</webMaster>
+      <lastBuildDate>Tue, 08 Mar 2016 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/Linux/kernelSubSystemDocumentation/StorageInterfaces/FileSystemsInTheLinuxKernel</guid>
+    <title>Linux 虚拟文件系统概述</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/Linux/kernelSubSystemDocumentation/StorageInterfaces/FileSystemsInTheLinuxKernel</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>cpp</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/OS/28特权级/28特权级保护机制</guid>
+    <title>28 特权级保护机制</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/OS/28特权级/28特权级保护机制</link>
+    <description>为什么要引入特权级？特权级概述，特权级使用，原理。</description>
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>os</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/OS/29多任务和任务切换/29多任务和任务的切换</guid>
+    <title>29  多任务和任务切换</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/OS/29多任务和任务切换/29多任务和任务的切换</link>
+    <description>多任务概述，多任务切换原理。</description>
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>os</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/OS/31分页/分页</guid>
+    <title>31 分页</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/OS/31分页/分页</link>
+    <description>分页概述，原理。</description>
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>os</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/OS/x64/基础架构和执行环境/基础架构和执行环境</guid>
+    <title>基础架构和执行环境</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/OS/x64/基础架构和执行环境/基础架构和执行环境</link>
+    <description>基础架构和执行环境</description>
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>os-64</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/OS/x64/进入IA32模式/进入IA32模式</guid>
+    <title>进入IA-32模式</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/OS/x64/进入IA32模式/进入IA32模式</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>os-64</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/OS/x64/进入ia-32e的64位模式执行/进入ia-32e的64位模式执行</guid>
+    <title>进入IA-32模式</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/OS/x64/进入ia-32e的64位模式执行/进入ia-32e的64位模式执行</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>os-64</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/cloudNative/docker/1_安装docker</guid>
+    <title>安装docker</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/cloudNative/docker/1_安装docker</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>cpp</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/cloudNative/docker/2_配置docker加速器</guid>
+    <title>配置docker阿里云镜像加速</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/cloudNative/docker/2_配置docker加速器</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>cpp</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/cpp/basic-syntax</guid>
+    <title>基本语法</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/cpp/basic-syntax</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>cpp</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/cpp/inherit</guid>
+    <title>继承</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/cpp/inherit</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>cpp</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/cpp/polymorphism</guid>
+    <title>多态</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/cpp/polymorphism</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>cpp</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/cpp/template/00函数模板</guid>
+    <title>cpp模板</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/cpp/template/00函数模板</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>cpp</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/cpp/template/1</guid>
+    <title>cpp模板</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/cpp/template/1</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>cpp</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/cpp/基本语法</guid>
+    <title>基本语法</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/cpp/基本语法</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>cpp</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/ffmpeg/1音视频基础/音视频基础</guid>
+    <title>音视频基础</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/ffmpeg/1音视频基础/音视频基础</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>ffmpeg</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/SIMD</guid>
+    <title>SIMD</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/SIMD</link>
+    null
+    <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>intel-architectures</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/appendix-a-eflags-cross-reference</guid>
+    <title>APPENDIX AEFLAGS CROSS-REFERENCE</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/appendix-a-eflags-cross-reference</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>intel-architectures</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/appendix-b-eflags-condition-codes</guid>
+    <title>APPENDIX BEFLAGS CONDITION CODES</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/appendix-b-eflags-condition-codes</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>intel-architectures</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/appendix-c-floating-point-exceptions-summary</guid>
+    <title>APPENDIX C FLOATING-POINT EXCEPTIONS SUMMARY</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/appendix-c-floating-point-exceptions-summary</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>intel-architectures</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/appendix-d-guidelines-for-writing-simd-floating-point-exception-handlers</guid>
+    <title>APPENDIX D GUIDELINES FOR WRITING SIMD FLOATING-POINT EXCEPTION</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/appendix-d-guidelines-for-writing-simd-floating-point-exception-handlers</link>
+    null
+    <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>intel-architectures</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/appendix-e-intel-memory-protection-extensions</guid>
+    <title>APPENDIX E INTEL® MEMORY PROTECTION EXTENSIONS</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/appendix-e-intel-memory-protection-extensions</link>
+    null
+    <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>intel-architectures</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter10-programming-with-intel-streaming-simd-extensions</guid>
+    <title>CHAPTER 10 PROGRAMMING WITH INTEL®</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter10-programming-with-intel-streaming-simd-extensions</link>
+    <description>本章介绍simd技术</description>
+    <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>intel-architectures</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter11-programming-with-intel-streaming-simd-extensions</guid>
+    <title>CHAPTER 11PROGRAMMING WITH INTEL®STREAMING SIMD EXTENSIONS 2 (INTEL® SSE2)STREAMING SIMD EXTENSIONS (INTEL® SSE)</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter11-programming-with-intel-streaming-simd-extensions</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>intel-architectures</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter12-programming-with-intel-sse3-ssse3-sse4-and-aes-ni</guid>
+    <title>CHAPTER 12PROGRAMMING WITH INTEL® SSE3, SSSE3,INTEL® SSE4, AND INTEL® AES-NI</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter12-programming-with-intel-sse3-ssse3-sse4-and-aes-ni</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>intel-architectures</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter13-managing-state-using-the-xsave-feature-set</guid>
+    <title>CHAPTER 13MANAGING STATE USING THE XSAVE FEATURE SET</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter13-managing-state-using-the-xsave-feature-set</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>intel-architectures</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter14-programming-with-intel-avx-fma-and-intel-avx2</guid>
+    <title>CHAPTER 14PROGRAMMING WITH INTEL® AVX, FMA, AND INTEL® AVX2</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter14-programming-with-intel-avx-fma-and-intel-avx2</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>intel-architectures</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter15-programming-with-intel-avx-512</guid>
+    <title>CHAPTER 15PROGRAMMING WITH INTEL® AVX-512</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter15-programming-with-intel-avx-512</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>intel-architectures</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter16-programming-with-intel-transactional-synchronization-extensions</guid>
+    <title>CHAPTER 16PROGRAMMING WITH INTEL® TRANSACTIONAL SYNCHRONIZATIONEXTENSIONS</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter16-programming-with-intel-transactional-synchronization-extensions</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>intel-architectures</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter17-control-flow-enforcement-technology</guid>
+    <title>CHAPTER 17CONTROL-FLOW ENFORCEMENT TECHNOLOGY (CET)</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter17-control-flow-enforcement-technology</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>intel-architectures</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter18-programming-with-intel-advanced-matrix-extensions</guid>
+    <title>CHAPTER 18PROGRAMMING WITH INTEL® ADVANCED MATRIX EXTENSIONS</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter18-programming-with-intel-advanced-matrix-extensions</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>intel-architectures</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter19-input-output</guid>
+    <title>CHAPTER 19INPUT/OUTPUT</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter19-input-output</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>intel-architectures</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter2-intel-64-IA-32-架构</guid>
+    <title>chapter 2 intel@64 和 IA-32 架构</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter2-intel-64-IA-32-架构</link>
+    <description>处理器的架构介绍</description>
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>intel-architectures</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter20-processor-identification-and-feature-determination</guid>
+    <title>CHAPTER 20PROCESSOR IDENTIFICATION AND FEATURE DETERMINATION</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter20-processor-identification-and-feature-determination</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>intel-architectures</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter3-basic-execution-environment</guid>
+    <title>chapter 3 basic execution environment</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter3-basic-execution-environment</link>
+    <description>本章描述了一个Intel 64或IA-32处理器的基本执行环境，正如汇编语言程序员所看到的那样。它描述了处理器如何执行指令以及如何存储和操作数据。在这里描述的执行环境包括内存（地址空间），通用数据寄存器，段寄存器，标志寄存器和指令指针寄存器。</description>
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>intel-architectures</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter4-data-types</guid>
+    <title>CHAPTER 4 DATA TYPES</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter4-data-types</link>
+    <description>本章介绍了Intel 64和IA-32架构定义的数据类型。本章末尾的一节描述了x87 FPU和Intel SSE、SSE2、SSE3、SSSE3、SSE4和AVX扩展中使用的实数和浮点概念。</description>
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>intel-architectures</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter5-instruction-set-summary</guid>
+    <title>chapter 5 instruction set summary</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter5-instruction-set-summary</link>
+    <description>Intel 64和IA-32指令的简化概述</description>
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>intel-architectures</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter6-procedure-calls-interrupts-and-exceptions</guid>
+    <title>CHAPTER 6PROCEDURE CALLS, INTERRUPTS, AND EXCEPTIONS</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter6-procedure-calls-interrupts-and-exceptions</link>
+    <description>Intel 64和IA-32指令的简化概述</description>
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>intel-architectures</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter7-programming-with-general-purpose-instructions</guid>
+    <title>CHAPTER 7 PROGRAMMING WITH GENERAL-PURPOSE INSTRUCTIONS</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter7-programming-with-general-purpose-instructions</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>intel-architectures</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter8-programming=with-the-x87-fpu</guid>
+    <title>CHAPTER 8 PROGRAMMING WITH THEx87 FPU</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter8-programming=with-the-x87-fpu</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>intel-architectures</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter9-programming-with-intel</guid>
+    <title>CHAPTER 9 PROGRAMMING WITH INTEL MMX™ TECHNOLOGY</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/intel-64-IA32架构/chapter9-programming-with-intel</link>
+    <description>本章介绍XMM技术</description>
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>intel-architectures</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/x8632/x87浮点单元</guid>
+    <title>x87 FPU浮点单元</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/intel/x8632/x87浮点单元</link>
+    <description>x87浮点架构介绍，使用</description>
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>intel-32</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/math/mid/7</guid>
+    <title>初中数学7 全</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/math/mid/7</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>math</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/math/mid/8</guid>
+    <title>初中数学8 全</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/math/mid/8</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>math</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/math/mid/9</guid>
+    <title>初中数学9 全</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/math/mid/9</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>math</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/math/mid/eight</guid>
+    <title>初中数学8 全</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/math/mid/eight</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>elementary-mathematics</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/math/mid/nine</guid>
+    <title>初中数学9 全</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/math/mid/nine</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>elementary-mathematics</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/math/mid/seven</guid>
+    <title>初中数学7 全</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/math/mid/seven</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>elementary-mathematics</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/math/mid/图形</guid>
+    <title>图形</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/math/mid/图形</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>math</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/math/mid/应用题</guid>
+    <title>初等数学应用题</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/math/mid/应用题</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>math</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/math/min/小学数学1-6</guid>
+    <title>小学数学1-6 全</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/math/min/小学数学1-6</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>math</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/nasm/chapter2-running-nasm</guid>
+    <title>Chapter2 Running NASM</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/nasm/chapter2-running-nasm</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>nasm</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/nasm/chapter3-the-nasm-language</guid>
+    <title>Chapter3 The NASM Language</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/nasm/chapter3-the-nasm-language</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>nasm</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/psychology/鬼计</guid>
+    <title>鬼计</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/psychology/鬼计</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>psychology</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/shell/sh</guid>
+    <title>shell</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/shell/sh</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>cpp</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/shujujiegou/数组</guid>
+    <title>基本语法</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/shujujiegou/数组</link>
+    null
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>punkucheung@163.com (punku)</author>
+    <category>cpp</category>
+  </item>
+
+    </channel>
+  </rss>
